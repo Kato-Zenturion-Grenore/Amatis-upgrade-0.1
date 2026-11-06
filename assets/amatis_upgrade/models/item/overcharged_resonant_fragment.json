@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "amatis_upgrade:item/overcharged_resonant_fragment"
+  }
+}

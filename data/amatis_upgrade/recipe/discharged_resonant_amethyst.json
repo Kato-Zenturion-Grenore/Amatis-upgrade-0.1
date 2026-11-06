@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "ASA",
+    "AAA"
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "S": "minecraft:echo_shard"
+  },
+  "result": {
+    "id": "amatis_upgrade:discharged_resonant_amethyst",
+    "count": 1
+  }
+}

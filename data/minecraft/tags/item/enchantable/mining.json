@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "amatis_upgrade:amatis_pickaxe",
+    "amatis_upgrade:amatis_axe",
+    "amatis_upgrade:amatis_shovel",
+    "amatis_upgrade:amatis_hoe"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "amatis_upgrade:amatis_sword",
+    "amatis_upgrade:amatis_heavy_sword",
+    "amatis_upgrade:amatis_dagger",
+    "amatis_upgrade:amatis_scythe"
+  ]
+}

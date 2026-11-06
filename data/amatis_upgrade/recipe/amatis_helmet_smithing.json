@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "amatis_upgrade:amatis_upgrade_template",
+  "base": "minecraft:netherite_helmet",
+  "addition": "amatis_upgrade:overcharged_resonant_fragment",
+  "result": {
+    "id": "amatis_upgrade:amatis_helmet",
+    "count": 1
+  }
+}

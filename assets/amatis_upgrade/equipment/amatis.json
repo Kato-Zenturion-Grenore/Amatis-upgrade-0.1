@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "amatis_upgrade:amatis"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "amatis_upgrade:amatis"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "amatis_upgrade:amatis_helmet",
+    "amatis_upgrade:amatis_chestplate",
+    "amatis_upgrade:amatis_leggings",
+    "amatis_upgrade:amatis_boots"
+  ]
+}

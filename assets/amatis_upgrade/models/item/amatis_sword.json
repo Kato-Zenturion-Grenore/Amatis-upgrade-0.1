@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "amatis_upgrade:item/amatis_sword"
+  }
+}
